@@ -1,0 +1,8 @@
+{
+    "name" : "foodora-test/foodora-test",
+    "description" : "Foodora test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"FoodoraTest\\": "src/"}
+    }
+}
