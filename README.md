@@ -2,7 +2,7 @@
 
 ## Installation instructions
 
- _php composer.phar install_ to be able to use autoloading and install phpunit to test
+ _php composer.phar install_ to be able to use autoloading and install phpunit to test.
  
 ## DB configuration
 
